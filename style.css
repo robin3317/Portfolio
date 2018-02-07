@@ -1,0 +1,35 @@
+#fotter{
+  color: white;
+  height: 120px;
+  margin-top: 40px;
+}
+#fotter a{
+  text-decoration: none;
+}
+#fotter p{
+  padding-top: 25px;
+}
+#fotter img{
+  background-color: white;
+  width: 30px;
+  height: 30px;
+  border-radius: 15%;
+  margin-right: 5px;
+}
+.jumbotron{
+  margin-top: 30px;
+}
+.menu{
+  padding-top: 50px;
+}
+body{
+  position: relative;
+}
+.card1 img{
+  width: 200px;
+  height: 180px;
+  margin-top: 5px;
+}
+.card2 img{
+  height: 220px;
+}
