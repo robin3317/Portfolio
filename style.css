@@ -1,35 +1,51 @@
-#fotter{
+#fotter {
   color: white;
   height: 120px;
   margin-top: 40px;
 }
-#fotter a{
+
+#fotter a {
   text-decoration: none;
 }
-#fotter p{
+
+#fotter p {
   padding-top: 25px;
 }
-#fotter img{
+
+#fotter img {
   background-color: white;
   width: 30px;
   height: 30px;
   border-radius: 15%;
   margin-right: 5px;
 }
-.jumbotron{
+
+.jumbotron {
   margin-top: 30px;
 }
-.menu{
+
+.menu {
   padding-top: 50px;
 }
-body{
+
+body {
   position: relative;
 }
-.card1 img{
+
+.card1 img {
   width: 200px;
   height: 180px;
   margin-top: 5px;
 }
-.card2 img{
+
+.card2 img {
   height: 220px;
+}
+
+form {
+  margin-top: 15px;
+}
+
+.contact-warning {
+  padding: 5px;
 }
